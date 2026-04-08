@@ -19,4 +19,5 @@ buying patterns using Python, Pandas, SQL, Excel and Power BI.
 
 ## Dataset
 Source: Kaggle E-Commerce Dataset
-Link: https://www.kaggle.com/datasets/devarajv88/target-dataset
+Link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+Note: Download dataset from above Kaggle link to run this project
